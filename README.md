@@ -10,7 +10,7 @@ Profesor: Enrique Canessa. Facultad de Ingeniería y Ciencias, UAI.
 
 ## Tareas Desarrolladas en el Curso:
 
-[**Tarea Nº 1: Modelo CartPole VO**](https://github.com/educarrascov/MIA_ReinforcementLearning/blob/main/Tarea%201.ipynb).
+[**Tarea Final - Grupo 1: Enjambre de UAV para I.S.R. en operaciones de Fiscalización Pesquera**](https://github.com/educarrascov/MIA_SimulacionAgentes/blob/main/Tarea/Informe_Final_Proyecto_ABM_Grupo_1.pdf).
 
 
 
